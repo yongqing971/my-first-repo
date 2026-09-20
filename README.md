@@ -20,3 +20,6 @@ feature/test3
 
 test main
 edit test3
+edit test3
+edit test4
+test4 config
