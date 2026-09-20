@@ -19,3 +19,4 @@ feature/test2
 feature/test3
 
 edit test3
+edit test4
